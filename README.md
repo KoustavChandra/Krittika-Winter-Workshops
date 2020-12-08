@@ -6,7 +6,11 @@ The notebook is available to view, download, or run in interactive sessions. The
 Comments/criticism are welcome.
 
 ### Run tutorials from your browser! ###
-[![Open Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KoustavChandra/Krittika-Winter-Workshops/blob/main/PyCBC_tutorials.ipynb)
+
+**Recommended** [![Open Tutorial](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/KoustavChandra/Krittika-Winter-Workshops/blob/main/PyCBC_tutorials.ipynb) 
+
+
+Alternative [![Start your mybinder session](http://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/KoustavChandra/Krittika-Winter-Workshops/96710f4792aeb710b1b0452c1568cd7bf6d99b46?filepath=PyCBC_tutorials.ipynb)
 
 Some things that you may learn
 * How to access LIGO data
